@@ -1,0 +1,6 @@
+* byterange 1.0.0
+
+Grab the bytes between an offset range from a file and write to
+standard output.
+
+Report bugs to <nchatz314@gmail.com>.

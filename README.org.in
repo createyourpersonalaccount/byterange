@@ -1,0 +1,6 @@
+* @PACKAGE_STRING@
+
+Grab the bytes between an offset range from a file and write to
+standard output.
+
+Report bugs to <@PACKAGE_BUGREPORT@>.
